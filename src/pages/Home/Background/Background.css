@@ -1,0 +1,22 @@
+.background-picz {
+    height: 100vh;
+    background-image: url('../../../assets/Pitha/pithamaking.jpeg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    position: relative;
+
+}
+
+.background-content {
+    position: absolute;
+    top: 40%;
+}
+
+.background-content p {
+    color:bisque;
+    font-size: 25px;
+    font-weight: 200;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
