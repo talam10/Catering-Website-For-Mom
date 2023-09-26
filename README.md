@@ -1,4 +1,4 @@
-# Catering-Website-For-Mom
+# Catering-Website-For-Mom: BengalTiger
 This is a website that I decided to work on to bring some traditional dishes my mom makes. It is still under a lot of work and I need to make changes for the 'Order online' and 'Click to Add to Cart' and 'Show Cart & Checkout' buttons that don't work.
 
 # Getting Started with Create React App
